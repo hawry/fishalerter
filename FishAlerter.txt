@@ -1,5 +1,8 @@
 ## Title: FishAlerter
 ## APIVersion: 100020
+## Version: 0.0.1
+## Description: The first, and very basic, version of FishAlerter, which adds a colorful display to alert you when it's time to reel in that elusive fish.
+## Author: hawry
 
 FishAlerter.xml
 FishAlerter.lua
